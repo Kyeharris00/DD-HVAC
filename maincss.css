@@ -1,0 +1,32 @@
+body {background-color: rgb(132, 145, 223); }
+
+.title {background-color: whitesmoke;}
+
+.center {text-align: center;}
+
+.missionHeader {text-align:center; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; font-style: italic;} 
+
+.missionPara {margin: 0 10% 0 10%;}
+
+.aboutPic {width:20%; border-radius: 20px; float:left; margin: 5%;}
+
+.aboutCont {float: right;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left; margin-left: 25%;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color: #dddddd;
+  }
+
+
